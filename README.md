@@ -1,8 +1,24 @@
-# Hello!! 🚀
-Me chamo Mateus, tenho 24 anos e sou programador há 1 ano! Descobri minha paixão por programção em novembro de 2021 e desde então venho crescendo nessa profissão que até um tempo atrás eu achava mágica e sem condições de aprender.
+<h2> Hello, I'm Mateus Drumond! 🚀
 
-Levo as coisas muito a sério, gosto de cumprir prazos e sou extremamente metódico, apesar disso consigo ser flexivel e me adapto a novas condições facilmente.
 
-Curso Análise e Desenvolvimento de Sistemas na UCB - Universidade Católica de Brasília, estou no segundo semestre e também sou militar temporário.
+### A little more about me...  
 
-Meu foco de crescimento e aprendizagem é fullstack com: Reactjs, React Native e Node.js.
+```javascript
+const mateus = {
+  pronouns: "he" | "him",
+  age: 24,
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Reactjs, Styled-Components, Material-UI],
+  studying: ["ReactNative", "Node-js", "Figma"],
+  workingOn: {      
+                organization: "Brazilian Air Foce",
+                freelance: "Ttribo.com",
+             },
+ challenge: "Become a fullstack developer!"
+}
+```
+
+[![Linkedin: mateusdrumond](https://img.shields.io/badge/-mateusdrumond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-drumond-31335511a/)](https://www.linkedin.com/in/mateus-drumond-31335511a/)
+[![GitHub Mateus](https://img.shields.io/github/followers/mateusfcd?label=follow&style=social)](https://github.com/MateusFCD)
+
+---
