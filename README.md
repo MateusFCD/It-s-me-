@@ -7,6 +7,7 @@
 const mateus = {
   pronouns: "he" | "him",
   age: 24,
+  maritalStatus: "married",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Reactjs, Styled-Components, Material-UI],
   studying: ["ReactNative", "Node-js", "Figma"],
