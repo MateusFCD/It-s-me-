@@ -1,29 +1,37 @@
 <h2> Hello, I'm Mateus Drumond! 🚀
 
 
-### A little more about me...  
+### 💫 A little more about me...  
 
 ```javascript
 const mateus = {
   pronouns: "he" | "him",
   age: 24,
   maritalStatus: "married",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Reactjs, Styled-Components, Material-UI],
-  studying: ["ReactNative", "Node-js", "Figma"],
+  code: [Javascript, Typescript],
+  tools: [Reactjs, React Native],
+  studying: ["Node-js"],
   workingOn: {      
-                organization: "Brazilian Air Foce",
-                freelance: "Ttribo.com",
+                organization: "Cast Group",
              },
  challenge: "Become a fullstack developer!"
 }
 ```
 
-[![Linkedin: mateusdrumond](https://img.shields.io/badge/-mateusdrumond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-drumond-31335511a/)](https://www.linkedin.com/in/mateus-drumond-31335511a/)
-[![GitHub Mateus](https://img.shields.io/github/followers/mateusfcd?label=follow&style=social)](https://github.com/MateusFCD)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-drumond-31335511a/) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MateusFCD&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MateusFCD&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFCD&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MateusFCD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media1.giphy.com/media/j49DyJ21b46azEBFpg/giphy.gif?cid=ecf05e47lyoxc4fb0xia5lsi1o3alfcpepngow01jacyf156&rid=giphy.gif&ct=g" width="10%" height="10%" style="position:relative" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
